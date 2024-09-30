@@ -93,6 +93,11 @@ img {
     color: #404bbf;
 }
 
+.nav-link{
+    position: relative;
+    color: #404bbf;
+}
+
 .nav-link::after {
     content: "";
     width: 100%;
@@ -102,7 +107,6 @@ img {
     height: 4px;
     border-radius: 2px;
     background-color: #404bbf;
-    color: #404bbf;
 }
 
 .nav-list a{

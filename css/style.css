@@ -501,6 +501,11 @@ footer .studio{
     gap:16px;
 }
 
+.footer-social-media{
+    width: 40px;
+    height: 40px;
+}
+
 .title-social-media{
     font-weight: 500;
     font-size: 16px;
@@ -509,9 +514,6 @@ footer .studio{
     margin-bottom: 16px;
     color:#FFFFFF;
     display: flex;
-    width: 40px;
-    height: 40px;
-    /* justify-content: center; */
 }
 
 .media-links{

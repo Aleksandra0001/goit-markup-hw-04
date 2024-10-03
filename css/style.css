@@ -456,6 +456,9 @@ li:hover .overlay {
 .footer-container{
     display: flex;
     align-items: baseline;
+}
+
+.logo-container{
     margin-right: 120px;
 }
 

@@ -97,7 +97,7 @@ img {
     color: #2e2f42;
 }
 
-.nav-link-first{
+.nav-link.nav-link-first{
     color: #404bbf;
     position: relative;
     transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
@@ -357,7 +357,6 @@ img {
 .portfolio{
     padding-top: 120px;
     padding-bottom: 120px;
-    display: flex;
 }
 
 .portfolio-section-title{
@@ -510,7 +509,6 @@ footer .studio{
     letter-spacing: 0.02em;
     margin-bottom: 16px;
     color:#FFFFFF;
-    display: flex;
 }
 
 .media-links{

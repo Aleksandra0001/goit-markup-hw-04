@@ -104,7 +104,7 @@ img {
 }
 
 
-.nav-link::after {
+.nav-link-first::after {
     content: "";
     width: 100%;
     position: absolute;
